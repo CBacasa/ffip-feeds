@@ -1,0 +1,35 @@
+name: LinkedIn rotation feed
+
+# Adds 1 article to docs/linkedin.xml ~35 min before each Make.com run
+# (Make runs every 8h at ~00:25, 08:25, 16:25 UTC).
+on:
+  schedule:
+    - cron: "50 23 * * *"
+    - cron: "50 7 * * *"
+    - cron: "50 15 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: linkedin-feed
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Build feed
+        run: python scripts/build_feed.py
+      - name: Commit feed
+        run: |
+          git config user.name "ffip-feed-bot"
+          git config user.email "ffip-feed-bot@users.noreply.github.com"
+          git add docs/linkedin.xml state.json
+          git diff --cached --quiet || git commit -m "feed: queue next article"
+          git push
