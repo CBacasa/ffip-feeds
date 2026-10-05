@@ -30,7 +30,8 @@
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/conway-bowman-mako-sharks-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/landon-mayer-stillwater-trout-tactics-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/wading-belt-gear-system",
-    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/spey-casting-mechanics-rod-flex-line-speed-fly-fishing-insider-podcast"
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/spey-casting-mechanics-rod-flex-line-speed-fly-fishing-insider-podcast",
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/getting-into-two-handed-rods-spey-swing-the-fly-fly-fishing-insider-podcast"
   ],
   "queue": [
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/i-started-using-split-shot-how-it-changed-my-fly-fishing-fly-fishing-insider-podcast",
@@ -579,14 +580,6 @@
   ],
   "items": [
     {
-      "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/night-shift-after-dark-trophy-tactics-for-stillwater-giants",
-      "title": "Night Fly Fishing Tactics for Trophy Trout",
-      "summary": "Night fly fishing for stillwater trophy trout: where big fish move after dark, the flies and lines that work blind, and how to fish safely at night.",
-      "image": "http://ffipodcast.com/cdn/shop/articles/IMG_2220_8025479c-d9df-4f9c-ae05-ffd983af696f.jpg?v=1789701385",
-      "pubDate": "Fri, 25 Sep 2026 22:52:20 +0000",
-      "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/night-shift-after-dark-trophy-tactics-for-stillwater-giants#202609252252"
-    },
-    {
       "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/terrestrial-dry-fly-fishing-mastery-ants-beetles-and-hopper-techniques-fly-fishing-insider-podcast-blog-and-shop",
       "title": "Terrestrial Dry Fly Fishing: Ants, Beetles, Hoppers",
       "summary": "How to fish ant, beetle, and hopper patterns through late summer, including presentation tricks that beat a standard dead drift.",
@@ -817,6 +810,14 @@
       "image": "http://ffipodcast.com/cdn/shop/articles/hqdefault_5270cb42-8b49-441c-9570-8b50ec780b1c.jpg?v=1791195218",
       "pubDate": "Mon, 05 Oct 2026 16:26:08 +0000",
       "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/spey-casting-mechanics-rod-flex-line-speed-fly-fishing-insider-podcast#202610051626"
+    },
+    {
+      "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/getting-into-two-handed-rods-spey-swing-the-fly-fly-fishing-insider-podcast",
+      "title": "Getting Into Two-Handed Rods | Fly Fishing Insider Podcast, Blog and Shop",
+      "summary": "Swing the Fly Magazine's editor on how spey gear evolved, when Skagit vs floating lines make sense, and why line weight matters most for trout spey.",
+      "image": "http://ffipodcast.com/cdn/shop/articles/hqdefault_1f2b0f24-f587-4eb8-8472-e7ad64a70443.jpg?v=1791195187",
+      "pubDate": "Mon, 05 Oct 2026 22:12:31 +0000",
+      "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/getting-into-two-handed-rods-spey-swing-the-fly-fly-fishing-insider-podcast#202610052212"
     }
   ],
   "seen_new": [
@@ -875,6 +876,7 @@
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/conway-bowman-mako-sharks-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/landon-mayer-stillwater-trout-tactics-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/wading-belt-gear-system",
-    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/spey-casting-mechanics-rod-flex-line-speed-fly-fishing-insider-podcast"
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/spey-casting-mechanics-rod-flex-line-speed-fly-fishing-insider-podcast",
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/getting-into-two-handed-rods-spey-swing-the-fly-fly-fishing-insider-podcast"
   ]
 }
