@@ -32,7 +32,8 @@
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/wading-belt-gear-system",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/spey-casting-mechanics-rod-flex-line-speed-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/getting-into-two-handed-rods-spey-swing-the-fly-fly-fishing-insider-podcast",
-    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/casting-across-every-water-type-roll-cast-fly-fishing-insider-podcast"
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/casting-across-every-water-type-roll-cast-fly-fishing-insider-podcast",
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/how-to-balance-a-fly-rod"
   ],
   "queue": [
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/i-started-using-split-shot-how-it-changed-my-fly-fishing-fly-fishing-insider-podcast",
@@ -581,14 +582,6 @@
   ],
   "items": [
     {
-      "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/fly-casting-loop-vibration-theory-fly-fishing-insider-podcast",
-      "title": "Why Your Fly Cast Isn't Really a Loop",
-      "summary": "A forestry scientist's unconventional wave theory of fly casting, and practical drills that sharpen your stroke.",
-      "image": "http://ffipodcast.com/cdn/shop/articles/maxresdefault_2a3f5674-e6bf-4e46-b3c1-cbc0343a9b68.jpg?v=1785510986",
-      "pubDate": "Sat, 26 Sep 2026 12:30:07 +0000",
-      "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/fly-casting-loop-vibration-theory-fly-fishing-insider-podcast#202609261230"
-    },
-    {
       "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/insights-and-adventures-behind-the-scene-in-the-fly-tying-profession-with-garrett-lesko-fly-fishing-insider-podcast",
       "title": "Fly Tying Profession with Garrett Lesko",
       "summary": "Step into the fly tying profession and learn a little from a North West local Garrett Lesko. We cover the ins and outs and everything between",
@@ -819,6 +812,14 @@
       "image": "http://ffipodcast.com/cdn/shop/articles/maxresdefault_38434b09-a8cd-4788-8e56-effa77f3ad7d.jpg?v=1791195132",
       "pubDate": "Tue, 06 Oct 2026 03:20:50 +0000",
       "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/casting-across-every-water-type-roll-cast-fly-fishing-insider-podcast#202610060320"
+    },
+    {
+      "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/how-to-balance-a-fly-rod",
+      "title": "How to Balance a Fly Rod and Stop Hand and Wrist Pain",
+      "summary": "Your hand hurts because the fly rod is tip-heavy. Find a rod's balance point in five minutes and fix it with reel weight instead of a tighter grip on the cork.",
+      "image": "http://ffipodcast.com/cdn/shop/articles/ffip-louisiana-saltwater-111.jpg?v=1791164232",
+      "pubDate": "Tue, 06 Oct 2026 14:30:23 +0000",
+      "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/how-to-balance-a-fly-rod#202610061430"
     }
   ],
   "seen_new": [
@@ -879,6 +880,7 @@
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/wading-belt-gear-system",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/spey-casting-mechanics-rod-flex-line-speed-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/getting-into-two-handed-rods-spey-swing-the-fly-fly-fishing-insider-podcast",
-    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/casting-across-every-water-type-roll-cast-fly-fishing-insider-podcast"
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/casting-across-every-water-type-roll-cast-fly-fishing-insider-podcast",
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/how-to-balance-a-fly-rod"
   ]
 }
