@@ -31,7 +31,8 @@
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/landon-mayer-stillwater-trout-tactics-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/wading-belt-gear-system",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/spey-casting-mechanics-rod-flex-line-speed-fly-fishing-insider-podcast",
-    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/getting-into-two-handed-rods-spey-swing-the-fly-fly-fishing-insider-podcast"
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/getting-into-two-handed-rods-spey-swing-the-fly-fly-fishing-insider-podcast",
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/casting-across-every-water-type-roll-cast-fly-fishing-insider-podcast"
   ],
   "queue": [
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/i-started-using-split-shot-how-it-changed-my-fly-fishing-fly-fishing-insider-podcast",
@@ -580,14 +581,6 @@
   ],
   "items": [
     {
-      "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/terrestrial-dry-fly-fishing-mastery-ants-beetles-and-hopper-techniques-fly-fishing-insider-podcast-blog-and-shop",
-      "title": "Terrestrial Dry Fly Fishing: Ants, Beetles, Hoppers",
-      "summary": "How to fish ant, beetle, and hopper patterns through late summer, including presentation tricks that beat a standard dead drift.",
-      "image": "http://ffipodcast.com/cdn/shop/articles/IMG_2912_1.jpg?v=1761419161",
-      "pubDate": "Sat, 26 Sep 2026 02:02:39 +0000",
-      "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/terrestrial-dry-fly-fishing-mastery-ants-beetles-and-hopper-techniques-fly-fishing-insider-podcast-blog-and-shop#202609260202"
-    },
-    {
       "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/fly-casting-loop-vibration-theory-fly-fishing-insider-podcast",
       "title": "Why Your Fly Cast Isn't Really a Loop",
       "summary": "A forestry scientist's unconventional wave theory of fly casting, and practical drills that sharpen your stroke.",
@@ -818,6 +811,14 @@
       "image": "http://ffipodcast.com/cdn/shop/articles/hqdefault_1f2b0f24-f587-4eb8-8472-e7ad64a70443.jpg?v=1791195187",
       "pubDate": "Mon, 05 Oct 2026 22:12:31 +0000",
       "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/getting-into-two-handed-rods-spey-swing-the-fly-fly-fishing-insider-podcast#202610052212"
+    },
+    {
+      "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/casting-across-every-water-type-roll-cast-fly-fishing-insider-podcast",
+      "title": "Casting Across Every Water Type | Fly Fishing Insider Podcast, Blog and Shop",
+      "summary": "A casting instructor breaks down roll casts for tight water, low loops for wind, and the line-management habits that carry over to every river and flat.",
+      "image": "http://ffipodcast.com/cdn/shop/articles/maxresdefault_38434b09-a8cd-4788-8e56-effa77f3ad7d.jpg?v=1791195132",
+      "pubDate": "Tue, 06 Oct 2026 03:20:50 +0000",
+      "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/casting-across-every-water-type-roll-cast-fly-fishing-insider-podcast#202610060320"
     }
   ],
   "seen_new": [
@@ -877,6 +878,7 @@
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/landon-mayer-stillwater-trout-tactics-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/wading-belt-gear-system",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/spey-casting-mechanics-rod-flex-line-speed-fly-fishing-insider-podcast",
-    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/getting-into-two-handed-rods-spey-swing-the-fly-fly-fishing-insider-podcast"
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/getting-into-two-handed-rods-spey-swing-the-fly-fly-fishing-insider-podcast",
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/casting-across-every-water-type-roll-cast-fly-fishing-insider-podcast"
   ]
 }
