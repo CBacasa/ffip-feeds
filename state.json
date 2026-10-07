@@ -35,7 +35,8 @@
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/casting-across-every-water-type-roll-cast-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/how-to-balance-a-fly-rod",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/amazon-jungle-fly-fishing-travel-rods-fly-fishing-insider-podcast",
-    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/what-makes-a-fly-rod-tapers-graphite-components-native-rod-co-fly-fishing-insider-podcast"
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/what-makes-a-fly-rod-tapers-graphite-components-native-rod-co-fly-fishing-insider-podcast",
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/how-to-fish-a-pool-with-a-streamer-grid-method-fly-fishing-insider-podcast"
   ],
   "queue": [
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/i-started-using-split-shot-how-it-changed-my-fly-fishing-fly-fishing-insider-podcast",
@@ -584,14 +585,6 @@
   ],
   "items": [
     {
-      "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/how-to-read-a-fly-reel-spec-sheet-fly-fishing-insider-podcast",
-      "title": "How to Read a Fly Reel Spec Sheet | Fly Fishing Insider Podcast, Blog and Shop",
-      "summary": "Large arbor, sealed drag, machined vs. die-cast. What those reel specs actually mean on the water, and which ones matter for the fish you're chasing.",
-      "image": "http://ffipodcast.com/cdn/shop/articles/maxresdefault_289deadb-2eea-4b1b-9836-c39433a2ac6f.jpg?v=1790454779",
-      "pubDate": "Sun, 27 Sep 2026 13:20:29 +0000",
-      "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/how-to-read-a-fly-reel-spec-sheet-fly-fishing-insider-podcast#202609271320"
-    },
-    {
       "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/michigan-fly-fishing-for-smallmouth-and-pike-fly-fishing-insider-podcast",
       "title": "Michigan's Other Fishery: Fly Fishing for Smallmouth and Pike | Fly Fishing Insider Podcast, Blog and Shop",
       "summary": "Everyone goes to Michigan for trout. The native smallmouth and pike are hiding in plain sight. Rod angle, wire leaders, and streamer tactics that work.",
@@ -822,6 +815,14 @@
       "image": "http://ffipodcast.com/cdn/shop/articles/hqdefault_f58c0fed-4f48-461f-ba76-202772c63dc1.jpg?v=1791332677",
       "pubDate": "Wed, 07 Oct 2026 02:42:40 +0000",
       "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/what-makes-a-fly-rod-tapers-graphite-components-native-rod-co-fly-fishing-insider-podcast#202610070242"
+    },
+    {
+      "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/how-to-fish-a-pool-with-a-streamer-grid-method-fly-fishing-insider-podcast",
+      "title": "How to Fish a Pool with a Streamer | Fly Fishing Insider Podcast, Blog and Shop",
+      "summary": "A simple system for streamer fishing a pool: strip across feeding lanes, grid the pool, 2-3 casts per zone, then vary depth with count-downs and retrieves.",
+      "image": "http://ffipodcast.com/cdn/shop/articles/maxresdefault_3adc26e5-d780-4309-8e5a-302d6018842b.jpg?v=1791367929",
+      "pubDate": "Wed, 07 Oct 2026 14:46:36 +0000",
+      "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/how-to-fish-a-pool-with-a-streamer-grid-method-fly-fishing-insider-podcast#202610071446"
     }
   ],
   "seen_new": [
@@ -885,6 +886,7 @@
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/casting-across-every-water-type-roll-cast-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/how-to-balance-a-fly-rod",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/amazon-jungle-fly-fishing-travel-rods-fly-fishing-insider-podcast",
-    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/what-makes-a-fly-rod-tapers-graphite-components-native-rod-co-fly-fishing-insider-podcast"
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/what-makes-a-fly-rod-tapers-graphite-components-native-rod-co-fly-fishing-insider-podcast",
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/how-to-fish-a-pool-with-a-streamer-grid-method-fly-fishing-insider-podcast"
   ]
 }
