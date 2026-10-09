@@ -42,7 +42,8 @@
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/brendan-morrison-reel-west-coast-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/amber-leach-water-changes-perspective-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/big-rapalas-big-streamers-simeon-myers-fly-fishing-insider-podcast",
-    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/what-makes-a-great-fly-reel-kristen-mustad-nautilus-fly-fishing-insider-podcast"
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/what-makes-a-great-fly-reel-kristen-mustad-nautilus-fly-fishing-insider-podcast",
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/freshwater-stripers-on-the-fly-henry-cowen-fly-fishing-insider-podcast"
   ],
   "queue": [
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/i-started-using-split-shot-how-it-changed-my-fly-fishing-fly-fishing-insider-podcast",
@@ -591,14 +592,6 @@
   ],
   "items": [
     {
-      "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/coastal-rivers-native-trout-river-ecology-fly-fishing-insider-podcast",
-      "title": "Coastal Rivers for Native Trout | Fly Fishing Insider Podcast, Blog and Shop",
-      "summary": "A river ecologist explains how woody debris, shade, rain-fed flows and water temperature shape coastal cutthroat water, and how to fish it smarter.",
-      "image": "http://ffipodcast.com/cdn/shop/articles/maxresdefault_6cbcd6e0-e037-40de-956c-e487e216f08a.jpg?v=1790709081",
-      "pubDate": "Tue, 29 Sep 2026 20:15:53 +0000",
-      "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/coastal-rivers-native-trout-river-ecology-fly-fishing-insider-podcast#202609292015"
-    },
-    {
       "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/chasing-every-salmonid-species-native-trout-char-fly-fishing-insider-podcast",
       "title": "Chasing Every Salmonid Species | Fly Fishing Insider Podcast, Blog and Shop",
       "summary": "A guest on a mission to catch every salmonid species shares how to find rare native trout and char: go up, research hard, keep rigs simple.",
@@ -829,6 +822,14 @@
       "image": "http://ffipodcast.com/cdn/shop/articles/maxresdefault_0e8115ea-29af-4221-b524-bb8016807407.jpg?v=1791553807",
       "pubDate": "Fri, 09 Oct 2026 14:42:11 +0000",
       "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/what-makes-a-great-fly-reel-kristen-mustad-nautilus-fly-fishing-insider-podcast#202610091442"
+    },
+    {
+      "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/freshwater-stripers-on-the-fly-henry-cowen-fly-fishing-insider-podcast",
+      "title": "Fly Fishing for Freshwater Stripers with Henry Cowen | Fly Fishing Insider Podcast, Blog and Shop",
+      "summary": "Henry Cowen on finding freshwater stripers with a fly rod: follow the bait, read water temperature, use sonar for structure, and learn from local anglers.",
+      "image": "http://ffipodcast.com/cdn/shop/articles/maxresdefault_4973aa56-ffa9-4362-abed-e9f2f334ad9d.jpg?v=1791553775",
+      "pubDate": "Fri, 09 Oct 2026 20:21:30 +0000",
+      "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/freshwater-stripers-on-the-fly-henry-cowen-fly-fishing-insider-podcast#202610092021"
     }
   ],
   "seen_new": [
@@ -899,6 +900,7 @@
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/brendan-morrison-reel-west-coast-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/amber-leach-water-changes-perspective-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/big-rapalas-big-streamers-simeon-myers-fly-fishing-insider-podcast",
-    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/what-makes-a-great-fly-reel-kristen-mustad-nautilus-fly-fishing-insider-podcast"
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/what-makes-a-great-fly-reel-kristen-mustad-nautilus-fly-fishing-insider-podcast",
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/freshwater-stripers-on-the-fly-henry-cowen-fly-fishing-insider-podcast"
   ]
 }
