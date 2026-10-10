@@ -44,7 +44,8 @@
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/big-rapalas-big-streamers-simeon-myers-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/what-makes-a-great-fly-reel-kristen-mustad-nautilus-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/freshwater-stripers-on-the-fly-henry-cowen-fly-fishing-insider-podcast",
-    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/camp-chef-cast-iron-set-review"
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/camp-chef-cast-iron-set-review",
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/lid-rig-nippers-review"
   ],
   "queue": [
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/i-started-using-split-shot-how-it-changed-my-fly-fishing-fly-fishing-insider-podcast",
@@ -593,14 +594,6 @@
   ],
   "items": [
     {
-      "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/panhandle-tarpon-menhaden-guide-etiquette-david-mangum-fly-fishing-insider-podcast",
-      "title": "Panhandle Tarpon with David Mangum | Fly Fishing Insider Podcast, Blog and Shop",
-      "summary": "Florida Panhandle guide David Mangum on why tarpon follow menhaden, how river flow drives the fishery, and the unwritten etiquette of tarpon water.",
-      "image": "http://ffipodcast.com/cdn/shop/articles/maxresdefault_a45caffa-aacf-49d4-be24-74f2eba7ad4c.jpg?v=1790709024",
-      "pubDate": "Wed, 30 Sep 2026 14:15:52 +0000",
-      "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/panhandle-tarpon-menhaden-guide-etiquette-david-mangum-fly-fishing-insider-podcast#202609301415"
-    },
-    {
       "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/ozarks-smallmouth-streamers-ryan-walker-fly-fishing-insider-podcast",
       "title": "Streamer Fishing for Big Ozarks Smallmouth | Fly Fishing Insider Podcast, Blog and Shop",
       "summary": "Ryan Walker on catching the Ozarks' biggest smallmouth: structure plus current, crayfish colors by season, big baitfish patterns and the rip-strip retrieve.",
@@ -831,6 +824,14 @@
       "image": "http://ffipodcast.com/cdn/shop/articles/crazy-creek-camp-chef-mountaineer-stove-and-iron-skillet-ffip-review.jpg?v=1791580586",
       "pubDate": "Sat, 10 Oct 2026 02:47:34 +0000",
       "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/camp-chef-cast-iron-set-review#202610100247"
+    },
+    {
+      "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/lid-rig-nippers-review",
+      "title": "Lid Rig Nippers Review: Magnetic Hat-Brim Nipper",
+      "summary": "Hands-on Lid Rig nippers review: how the magnetic, hinge-free nipper rides on your hat brim, the engineering behind it, and what changed in the 3.0.",
+      "image": "http://ffipodcast.com/cdn/shop/articles/lid-rig-nipper-old-ffip-review.jpg?v=1791580678",
+      "pubDate": "Sat, 10 Oct 2026 13:59:28 +0000",
+      "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/lid-rig-nippers-review#202610101359"
     }
   ],
   "seen_new": [
@@ -903,6 +904,7 @@
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/big-rapalas-big-streamers-simeon-myers-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/what-makes-a-great-fly-reel-kristen-mustad-nautilus-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/freshwater-stripers-on-the-fly-henry-cowen-fly-fishing-insider-podcast",
-    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/camp-chef-cast-iron-set-review"
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/camp-chef-cast-iron-set-review",
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/lid-rig-nippers-review"
   ]
 }
