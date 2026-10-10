@@ -43,7 +43,8 @@
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/amber-leach-water-changes-perspective-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/big-rapalas-big-streamers-simeon-myers-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/what-makes-a-great-fly-reel-kristen-mustad-nautilus-fly-fishing-insider-podcast",
-    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/freshwater-stripers-on-the-fly-henry-cowen-fly-fishing-insider-podcast"
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/freshwater-stripers-on-the-fly-henry-cowen-fly-fishing-insider-podcast",
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/camp-chef-cast-iron-set-review"
   ],
   "queue": [
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/i-started-using-split-shot-how-it-changed-my-fly-fishing-fly-fishing-insider-podcast",
@@ -592,14 +593,6 @@
   ],
   "items": [
     {
-      "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/chasing-every-salmonid-species-native-trout-char-fly-fishing-insider-podcast",
-      "title": "Chasing Every Salmonid Species | Fly Fishing Insider Podcast, Blog and Shop",
-      "summary": "A guest on a mission to catch every salmonid species shares how to find rare native trout and char: go up, research hard, keep rigs simple.",
-      "image": "http://ffipodcast.com/cdn/shop/articles/maxresdefault_74a33612-5ec3-4ed9-83c0-a47408291b2a.jpg?v=1790709052",
-      "pubDate": "Wed, 30 Sep 2026 02:26:20 +0000",
-      "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/chasing-every-salmonid-species-native-trout-char-fly-fishing-insider-podcast#202609300226"
-    },
-    {
       "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/panhandle-tarpon-menhaden-guide-etiquette-david-mangum-fly-fishing-insider-podcast",
       "title": "Panhandle Tarpon with David Mangum | Fly Fishing Insider Podcast, Blog and Shop",
       "summary": "Florida Panhandle guide David Mangum on why tarpon follow menhaden, how river flow drives the fishery, and the unwritten etiquette of tarpon water.",
@@ -830,6 +823,14 @@
       "image": "http://ffipodcast.com/cdn/shop/articles/maxresdefault_4973aa56-ffa9-4362-abed-e9f2f334ad9d.jpg?v=1791553775",
       "pubDate": "Fri, 09 Oct 2026 20:21:30 +0000",
       "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/freshwater-stripers-on-the-fly-henry-cowen-fly-fishing-insider-podcast#202610092021"
+    },
+    {
+      "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/camp-chef-cast-iron-set-review",
+      "title": "Camp Chef Cast Iron Set Review: 6-Piece Kit",
+      "summary": "Hands-on Camp Chef cast iron set review for anglers and campers: what the 6-piece set includes, how each piece cooks, and who actually needs the full set.",
+      "image": "http://ffipodcast.com/cdn/shop/articles/crazy-creek-camp-chef-mountaineer-stove-and-iron-skillet-ffip-review.jpg?v=1791580586",
+      "pubDate": "Sat, 10 Oct 2026 02:47:34 +0000",
+      "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/camp-chef-cast-iron-set-review#202610100247"
     }
   ],
   "seen_new": [
@@ -901,6 +902,7 @@
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/amber-leach-water-changes-perspective-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/big-rapalas-big-streamers-simeon-myers-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/what-makes-a-great-fly-reel-kristen-mustad-nautilus-fly-fishing-insider-podcast",
-    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/freshwater-stripers-on-the-fly-henry-cowen-fly-fishing-insider-podcast"
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/freshwater-stripers-on-the-fly-henry-cowen-fly-fishing-insider-podcast",
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/camp-chef-cast-iron-set-review"
   ]
 }
