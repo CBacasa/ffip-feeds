@@ -49,7 +49,8 @@
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/river-rat-pro-series-raft-review",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/devos-lightranger-camp-light-review",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/camp-chef-sherpa-table-organizer-review",
-    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/whitewater-fly-fishing-flathead-hilary-hutcheson-fly-fishing-insider-podcast"
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/whitewater-fly-fishing-flathead-hilary-hutcheson-fly-fishing-insider-podcast",
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/euro-nymphing-explained-george-daniel-fly-fishing-insider-podcast"
   ],
   "queue": [
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/i-started-using-split-shot-how-it-changed-my-fly-fishing-fly-fishing-insider-podcast",
@@ -598,14 +599,6 @@
   ],
   "items": [
     {
-      "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/fish-like-a-problem-solver-diy-lessons-cheeky-fishing-fly-fishing-insider-podcast",
-      "title": "Fish Like a Problem Solver: DIY Lessons From Cheeky Fishing | Fly Fishing Insider Podcast, Blog and Shop",
-      "summary": "A former Montana outfitter now with Cheeky Fishing on DIY fly fishing as problem solving: reading tidal flats, wading for stripers and teaching kids to cast.",
-      "image": "http://ffipodcast.com/cdn/shop/articles/maxresdefault_33fbbca6-5f76-4930-b4fe-097252bb92e0.jpg?v=1790867526",
-      "pubDate": "Fri, 02 Oct 2026 02:35:44 +0000",
-      "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/fish-like-a-problem-solver-diy-lessons-cheeky-fishing-fly-fishing-insider-podcast#202610020235"
-    },
-    {
       "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/mending-from-a-drift-boat-bill-nolan-lehigh-fly-fishing-insider-podcast",
       "title": "Mending From a Drift Boat: Bill Nolan's Three-Rig Approach | Fly Fishing Insider Podcast, Blog and Shop",
       "summary": "Pennsylvania guide Bill Nolan on mending from a moving boat, reading a float for streamers, nymphs and dries, and the rigs he trusts on the Lehigh.",
@@ -836,6 +829,14 @@
       "image": "http://ffipodcast.com/cdn/shop/articles/maxresdefault_0906f108-2938-4732-8a90-dacaeeba6535.jpg?v=1791553745",
       "pubDate": "Sun, 11 Oct 2026 19:45:26 +0000",
       "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/whitewater-fly-fishing-flathead-hilary-hutcheson-fly-fishing-insider-podcast#202610111945"
+    },
+    {
+      "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/euro-nymphing-explained-george-daniel-fly-fishing-insider-podcast",
+      "title": "Euro Nymphing Explained: George Daniel | Fly Fishing Insider Podcast, Blog and Shop",
+      "summary": "George Daniel breaks down euro nymphing: thin leaders, a sighter off the water, leading the flies, and why soft-tip rods beat indicators for detecting strikes.",
+      "image": "http://ffipodcast.com/cdn/shop/articles/maxresdefault_564be46b-e016-426c-90f6-8ab0164cc04a.jpg?v=1791332627",
+      "pubDate": "Mon, 12 Oct 2026 02:39:51 +0000",
+      "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/euro-nymphing-explained-george-daniel-fly-fishing-insider-podcast#202610120239"
     }
   ],
   "seen_new": [
@@ -913,6 +914,7 @@
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/river-rat-pro-series-raft-review",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/devos-lightranger-camp-light-review",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/camp-chef-sherpa-table-organizer-review",
-    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/whitewater-fly-fishing-flathead-hilary-hutcheson-fly-fishing-insider-podcast"
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/whitewater-fly-fishing-flathead-hilary-hutcheson-fly-fishing-insider-podcast",
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/euro-nymphing-explained-george-daniel-fly-fishing-insider-podcast"
   ]
 }
