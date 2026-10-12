@@ -50,7 +50,8 @@
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/devos-lightranger-camp-light-review",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/camp-chef-sherpa-table-organizer-review",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/whitewater-fly-fishing-flathead-hilary-hutcheson-fly-fishing-insider-podcast",
-    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/euro-nymphing-explained-george-daniel-fly-fishing-insider-podcast"
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/euro-nymphing-explained-george-daniel-fly-fishing-insider-podcast",
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/black-diamond-solution-1-0-hoody-review"
   ],
   "queue": [
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/i-started-using-split-shot-how-it-changed-my-fly-fishing-fly-fishing-insider-podcast",
@@ -599,14 +600,6 @@
   ],
   "items": [
     {
-      "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/mending-from-a-drift-boat-bill-nolan-lehigh-fly-fishing-insider-podcast",
-      "title": "Mending From a Drift Boat: Bill Nolan's Three-Rig Approach | Fly Fishing Insider Podcast, Blog and Shop",
-      "summary": "Pennsylvania guide Bill Nolan on mending from a moving boat, reading a float for streamers, nymphs and dries, and the rigs he trusts on the Lehigh.",
-      "image": "http://ffipodcast.com/cdn/shop/articles/maxresdefault_6987ece4-2550-4e1a-a064-1b2c8239f89a.jpg?v=1790867480",
-      "pubDate": "Fri, 02 Oct 2026 14:10:10 +0000",
-      "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/mending-from-a-drift-boat-bill-nolan-lehigh-fly-fishing-insider-podcast#202610021410"
-    },
-    {
       "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/plan-and-budget-alaska-fly-fishing-trip-dan-hoffman-fly-fishing-insider-podcast",
       "title": "Planning and Paying for an Alaska Fly Fishing Trip | Fly Fishing Insider Podcast, Blog and Shop",
       "summary": "Former Bristol Bay guide Dan Hoffman on the three tiers of Alaska fly fishing trips, how to research them, and how to save for yours.",
@@ -837,6 +830,14 @@
       "image": "http://ffipodcast.com/cdn/shop/articles/maxresdefault_564be46b-e016-426c-90f6-8ab0164cc04a.jpg?v=1791332627",
       "pubDate": "Mon, 12 Oct 2026 02:39:51 +0000",
       "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/euro-nymphing-explained-george-daniel-fly-fishing-insider-podcast#202610120239"
+    },
+    {
+      "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/black-diamond-solution-1-0-hoody-review",
+      "title": "Black Diamond Solution 1.0 Hoody Review",
+      "summary": "Black Diamond Solution 1.0 Hoody reviewed for fly fishing: PrimaLoft Gold Cross Core, stretch side panels, and why synthetic insulation beats down when wet.",
+      "image": "http://ffipodcast.com/cdn/shop/articles/black-diamond-synthetic-jacket-ffip-review.jpg?v=1791580580",
+      "pubDate": "Mon, 12 Oct 2026 17:02:06 +0000",
+      "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/black-diamond-solution-1-0-hoody-review#202610121702"
     }
   ],
   "seen_new": [
@@ -915,6 +916,7 @@
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/devos-lightranger-camp-light-review",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/camp-chef-sherpa-table-organizer-review",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/whitewater-fly-fishing-flathead-hilary-hutcheson-fly-fishing-insider-podcast",
-    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/euro-nymphing-explained-george-daniel-fly-fishing-insider-podcast"
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/euro-nymphing-explained-george-daniel-fly-fishing-insider-podcast",
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/black-diamond-solution-1-0-hoody-review"
   ]
 }
