@@ -63,7 +63,8 @@
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/better-fish-handling-purist-on-the-fly-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/host-fly-fishing-film-night-mariko-izumi-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/dry-flies-bamboo-rods-slowing-down-spencer-durrant-fly-fishing-insider-podcast",
-    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/smallmouth-bass-on-the-fly-fish-depth-not-patterns-fly-fishing-insider-podcast"
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/smallmouth-bass-on-the-fly-fish-depth-not-patterns-fly-fishing-insider-podcast",
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/building-a-better-fly-box-montana-fly-company-fly-fishing-insider-podcast"
   ],
   "queue": [
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/i-started-using-split-shot-how-it-changed-my-fly-fishing-fly-fishing-insider-podcast",
@@ -612,14 +613,6 @@
   ],
   "items": [
     {
-      "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/amazon-jungle-fly-fishing-travel-rods-fly-fishing-insider-podcast",
-      "title": "Amazon Jungle Fly Fishing: Bite Wire, Travel Rods, and a Changing Rainforest | Fly Fishing Insider Podcast, Blog and Shop",
-      "summary": "What it takes to fly fish the Amazon: bite wire and heavy leaders, multi-species tactics, travel rods, and why the rainforest's future matters to anglers.",
-      "image": "http://ffipodcast.com/cdn/shop/articles/maxresdefault_69b1e288-4f64-4675-9a6a-eb93c0200936.jpg?v=1791108699",
-      "pubDate": "Tue, 06 Oct 2026 20:35:43 +0000",
-      "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/amazon-jungle-fly-fishing-travel-rods-fly-fishing-insider-podcast#202610062035"
-    },
-    {
       "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/what-makes-a-fly-rod-tapers-graphite-components-native-rod-co-fly-fishing-insider-podcast",
       "title": "What Makes a Fly Rod: Native Rod Co. | Fly Fishing Insider Podcast, Blog and Shop",
       "summary": "A rod builder's look inside a fly rod: how tapers set action, why unsanded graphite matters, and what guides, cork and reel seats really change.",
@@ -850,6 +843,14 @@
       "image": "http://ffipodcast.com/cdn/shop/articles/maxresdefault_bb3eabcf-5f47-43db-84b8-4464ffac8a41.jpg?v=1791920209",
       "pubDate": "Fri, 16 Oct 2026 12:45:08 +0000",
       "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/smallmouth-bass-on-the-fly-fish-depth-not-patterns-fly-fishing-insider-podcast#202610161245"
+    },
+    {
+      "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/building-a-better-fly-box-montana-fly-company-fly-fishing-insider-podcast",
+      "title": "Building a Better Fly Box | Fly Fishing Insider Podcast, Blog and Shop",
+      "summary": "Montana Fly Company on choosing quality flies, where new patterns come from, and picking a fly box that survives boat days. Lessons from the podcast.",
+      "image": "http://ffipodcast.com/cdn/shop/articles/maxresdefault_19d583d6-271b-4b81-87e6-1f324d9c41a4.jpg?v=1792166270",
+      "pubDate": "Fri, 16 Oct 2026 19:03:08 +0000",
+      "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/building-a-better-fly-box-montana-fly-company-fly-fishing-insider-podcast#202610161903"
     }
   ],
   "seen_new": [
@@ -941,6 +942,7 @@
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/better-fish-handling-purist-on-the-fly-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/host-fly-fishing-film-night-mariko-izumi-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/dry-flies-bamboo-rods-slowing-down-spencer-durrant-fly-fishing-insider-podcast",
-    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/smallmouth-bass-on-the-fly-fish-depth-not-patterns-fly-fishing-insider-podcast"
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/smallmouth-bass-on-the-fly-fish-depth-not-patterns-fly-fishing-insider-podcast",
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/building-a-better-fly-box-montana-fly-company-fly-fishing-insider-podcast"
   ]
 }
