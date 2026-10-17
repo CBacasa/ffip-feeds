@@ -64,7 +64,8 @@
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/host-fly-fishing-film-night-mariko-izumi-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/dry-flies-bamboo-rods-slowing-down-spencer-durrant-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/smallmouth-bass-on-the-fly-fish-depth-not-patterns-fly-fishing-insider-podcast",
-    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/building-a-better-fly-box-montana-fly-company-fly-fishing-insider-podcast"
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/building-a-better-fly-box-montana-fly-company-fly-fishing-insider-podcast",
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/tying-streamers-that-hold-up-meat-market-flies-fly-fishing-insider-podcast"
   ],
   "queue": [
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/i-started-using-split-shot-how-it-changed-my-fly-fishing-fly-fishing-insider-podcast",
@@ -613,14 +614,6 @@
   ],
   "items": [
     {
-      "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/what-makes-a-fly-rod-tapers-graphite-components-native-rod-co-fly-fishing-insider-podcast",
-      "title": "What Makes a Fly Rod: Native Rod Co. | Fly Fishing Insider Podcast, Blog and Shop",
-      "summary": "A rod builder's look inside a fly rod: how tapers set action, why unsanded graphite matters, and what guides, cork and reel seats really change.",
-      "image": "http://ffipodcast.com/cdn/shop/articles/hqdefault_f58c0fed-4f48-461f-ba76-202772c63dc1.jpg?v=1791332677",
-      "pubDate": "Wed, 07 Oct 2026 02:42:40 +0000",
-      "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/what-makes-a-fly-rod-tapers-graphite-components-native-rod-co-fly-fishing-insider-podcast#202610070242"
-    },
-    {
       "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/how-to-fish-a-pool-with-a-streamer-grid-method-fly-fishing-insider-podcast",
       "title": "How to Fish a Pool with a Streamer | Fly Fishing Insider Podcast, Blog and Shop",
       "summary": "A simple system for streamer fishing a pool: strip across feeding lanes, grid the pool, 2-3 casts per zone, then vary depth with count-downs and retrieves.",
@@ -851,6 +844,14 @@
       "image": "http://ffipodcast.com/cdn/shop/articles/maxresdefault_19d583d6-271b-4b81-87e6-1f324d9c41a4.jpg?v=1792166270",
       "pubDate": "Fri, 16 Oct 2026 19:03:08 +0000",
       "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/building-a-better-fly-box-montana-fly-company-fly-fishing-insider-podcast#202610161903"
+    },
+    {
+      "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/tying-streamers-that-hold-up-meat-market-flies-fly-fishing-insider-podcast",
+      "title": "Tying Streamers That Hold Up | Fly Fishing Insider Podcast, Blog and Shop",
+      "summary": "Hunter Derrek of Meat Market Flies on building streamers that survive big fish: hook choice, proven patterns, and tying for how you really fish.",
+      "image": "http://ffipodcast.com/cdn/shop/articles/maxresdefault_4b9b041b-97d6-4afa-92ee-c9190396f9cd.jpg?v=1792166239",
+      "pubDate": "Sat, 17 Oct 2026 01:34:42 +0000",
+      "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/tying-streamers-that-hold-up-meat-market-flies-fly-fishing-insider-podcast#202610170134"
     }
   ],
   "seen_new": [
@@ -943,6 +944,7 @@
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/host-fly-fishing-film-night-mariko-izumi-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/dry-flies-bamboo-rods-slowing-down-spencer-durrant-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/smallmouth-bass-on-the-fly-fish-depth-not-patterns-fly-fishing-insider-podcast",
-    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/building-a-better-fly-box-montana-fly-company-fly-fishing-insider-podcast"
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/building-a-better-fly-box-montana-fly-company-fly-fishing-insider-podcast",
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/tying-streamers-that-hold-up-meat-market-flies-fly-fishing-insider-podcast"
   ]
 }
