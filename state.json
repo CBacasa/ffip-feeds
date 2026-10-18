@@ -68,7 +68,8 @@
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/tying-streamers-that-hold-up-meat-market-flies-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/costa-rica-fly-fishing-machaca-tarpon-rooster-fish-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/fish-new-water-every-cast-fly-fishing-insider-podcast",
-    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/baseline-streamer-tactics-swing-vs-jerk-strip-fly-fishing-insider-podcast"
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/baseline-streamer-tactics-swing-vs-jerk-strip-fly-fishing-insider-podcast",
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/where-fish-live-fees-method-fly-fishing-insider-podcast"
   ],
   "queue": [
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/i-started-using-split-shot-how-it-changed-my-fly-fishing-fly-fishing-insider-podcast",
@@ -617,14 +618,6 @@
   ],
   "items": [
     {
-      "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/brendan-morrison-reel-west-coast-fly-fishing-insider-podcast",
-      "title": "Brendan Morrison: NHL to Reel West Coast | Fly Fishing Insider Podcast, Blog and Shop",
-      "summary": "Former Canuck Brendan Morrison on life after hockey, hosting Reel West Coast, catch and release, and how to choose and fish floats and indicators.",
-      "image": "http://ffipodcast.com/cdn/shop/articles/maxresdefault_2d9a6f15-ac46-4367-8e6c-734d686eee4d.jpg?v=1791454331",
-      "pubDate": "Thu, 08 Oct 2026 14:57:45 +0000",
-      "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/brendan-morrison-reel-west-coast-fly-fishing-insider-podcast#202610081457"
-    },
-    {
       "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/amber-leach-water-changes-perspective-fly-fishing-insider-podcast",
       "title": "Amber Leach: How the Water Changes Perspective | Fly Fishing Insider Podcast, Blog and Shop",
       "summary": "Guide and writer Amber Leach on moving from tight Appalachian creeks to big Colorado water, life as a new guide, and why the river belongs to everyone.",
@@ -855,6 +848,14 @@
       "image": "http://ffipodcast.com/cdn/shop/articles/maxresdefault_81d3c5fe-89b5-4d28-8a2b-eb6d37d4ec7c.jpg?v=1792231900",
       "pubDate": "Sun, 18 Oct 2026 01:33:42 +0000",
       "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/baseline-streamer-tactics-swing-vs-jerk-strip-fly-fishing-insider-podcast#202610180133"
+    },
+    {
+      "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/where-fish-live-fees-method-fly-fishing-insider-podcast",
+      "title": "Where Fish Live: The FEES Method for Reading Trout Water | Fly Fishing Insider Podcast, Blog and Shop",
+      "summary": "Use FEES (food, energy, efficiency, safety) to read any river and find the lies where trout actually sit, instead of fishing empty water.",
+      "image": "http://ffipodcast.com/cdn/shop/articles/maxresdefault_6a5db313-d280-4b74-a6d7-a53f99d02ab0.jpg?v=1792318306",
+      "pubDate": "Sun, 18 Oct 2026 12:11:49 +0000",
+      "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/where-fish-live-fees-method-fly-fishing-insider-podcast#202610181211"
     }
   ],
   "seen_new": [
@@ -951,6 +952,7 @@
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/tying-streamers-that-hold-up-meat-market-flies-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/costa-rica-fly-fishing-machaca-tarpon-rooster-fish-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/fish-new-water-every-cast-fly-fishing-insider-podcast",
-    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/baseline-streamer-tactics-swing-vs-jerk-strip-fly-fishing-insider-podcast"
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/baseline-streamer-tactics-swing-vs-jerk-strip-fly-fishing-insider-podcast",
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/where-fish-live-fees-method-fly-fishing-insider-podcast"
   ]
 }
