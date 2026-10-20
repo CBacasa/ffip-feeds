@@ -73,7 +73,8 @@
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/how-fly-lines-are-built-brad-befus-scientific-anglers-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/yellowstone-guide-dry-fly-leader-tips-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/custom-fly-tying-bench-tie-craft-fly-fishing-insider-podcast",
-    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/pyramid-lake-cutthroat-shoreline-arlo-townsend-fly-fishing-insider-podcast"
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/pyramid-lake-cutthroat-shoreline-arlo-townsend-fly-fishing-insider-podcast",
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/florida-keys-fall-grand-slam-bruce-chard-fly-fishing-insider-podcast"
   ],
   "queue": [
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/i-started-using-split-shot-how-it-changed-my-fly-fishing-fly-fishing-insider-podcast",
@@ -622,14 +623,6 @@
   ],
   "items": [
     {
-      "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/camp-chef-cast-iron-set-review",
-      "title": "Camp Chef Cast Iron Set Review: 6-Piece Kit",
-      "summary": "Hands-on Camp Chef cast iron set review for anglers and campers: what the 6-piece set includes, how each piece cooks, and who actually needs the full set.",
-      "image": "http://ffipodcast.com/cdn/shop/articles/crazy-creek-camp-chef-mountaineer-stove-and-iron-skillet-ffip-review.jpg?v=1791580586",
-      "pubDate": "Sat, 10 Oct 2026 02:47:34 +0000",
-      "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/camp-chef-cast-iron-set-review#202610100247"
-    },
-    {
       "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/lid-rig-nippers-review",
       "title": "Lid Rig Nippers Review: Magnetic Hat-Brim Nipper",
       "summary": "Hands-on Lid Rig nippers review: how the magnetic, hinge-free nipper rides on your hat brim, the engineering behind it, and what changed in the 3.0.",
@@ -860,6 +853,14 @@
       "image": "http://ffipodcast.com/cdn/shop/articles/maxresdefault_6a9cf4a4-c0fb-4422-9526-acbe59239d8f.jpg?v=1792404766",
       "pubDate": "Mon, 19 Oct 2026 20:44:22 +0000",
       "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/pyramid-lake-cutthroat-shoreline-arlo-townsend-fly-fishing-insider-podcast#202610192044"
+    },
+    {
+      "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/florida-keys-fall-grand-slam-bruce-chard-fly-fishing-insider-podcast",
+      "title": "Florida Keys Fall Grand Slams With Bruce Chard | Fly Fishing Insider Podcast, Blog and Shop",
+      "summary": "Bruce Chard on why fall is prime time in the Florida Keys for grand slams, and how overlining your rod helps you cast fast at short range.",
+      "image": "http://ffipodcast.com/cdn/shop/articles/maxresdefault_30e8f418-1569-4e88-ab71-6c0b7dbf5d16.jpg?v=1792404755",
+      "pubDate": "Tue, 20 Oct 2026 02:07:32 +0000",
+      "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/florida-keys-fall-grand-slam-bruce-chard-fly-fishing-insider-podcast#202610200207"
     }
   ],
   "seen_new": [
@@ -961,6 +962,7 @@
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/how-fly-lines-are-built-brad-befus-scientific-anglers-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/yellowstone-guide-dry-fly-leader-tips-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/custom-fly-tying-bench-tie-craft-fly-fishing-insider-podcast",
-    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/pyramid-lake-cutthroat-shoreline-arlo-townsend-fly-fishing-insider-podcast"
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/pyramid-lake-cutthroat-shoreline-arlo-townsend-fly-fishing-insider-podcast",
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/florida-keys-fall-grand-slam-bruce-chard-fly-fishing-insider-podcast"
   ]
 }
