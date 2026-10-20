@@ -75,7 +75,8 @@
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/custom-fly-tying-bench-tie-craft-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/pyramid-lake-cutthroat-shoreline-arlo-townsend-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/florida-keys-fall-grand-slam-bruce-chard-fly-fishing-insider-podcast",
-    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/montana-fishing-film-festival-story-over-production-fly-fishing-insider-podcast"
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/montana-fishing-film-festival-story-over-production-fly-fishing-insider-podcast",
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/research-new-fishing-spot-fly-fishing-insider-podcast"
   ],
   "queue": [
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/i-started-using-split-shot-how-it-changed-my-fly-fishing-fly-fishing-insider-podcast",
@@ -624,14 +625,6 @@
   ],
   "items": [
     {
-      "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/river-rat-pro-series-raft-review",
-      "title": "River Rat Pro Series Raft Review: 12 ft Fishing Raft",
-      "summary": "River Rat Pro Series raft review: a 12 ft x 58 in Utah-built fishing raft with a 6 in drop-stitch floor, 1.5 in T6 aluminum frame and Class III rating.",
-      "image": "http://ffipodcast.com/cdn/shop/articles/rising-lunker-net-river-rat-boat-ffip-review.jpg?v=1791580717",
-      "pubDate": "Sat, 10 Oct 2026 19:33:49 +0000",
-      "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/river-rat-pro-series-raft-review#202610101933"
-    },
-    {
       "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/devos-lightranger-camp-light-review",
       "title": "Devos LightRanger 2000 Review: Camp Light Tested",
       "summary": "Hands-on Devos LightRanger 2000 review: a telescoping, Bluetooth-controlled LED camp light with red and white modes, tested at truck camps. $249.99.",
@@ -862,6 +855,14 @@
       "image": "http://ffipodcast.com/cdn/shop/articles/maxresdefault_9171dd99-3a4f-403c-acf3-1f72c25d8492.jpg?v=1792357520",
       "pubDate": "Tue, 20 Oct 2026 13:02:42 +0000",
       "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/montana-fishing-film-festival-story-over-production-fly-fishing-insider-podcast#202610201302"
+    },
+    {
+      "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/research-new-fishing-spot-fly-fishing-insider-podcast",
+      "title": "Three Ways to Research a New Fishing Spot | Fly Fishing Insider Podcast, Blog and Shop",
+      "summary": "Heading to unfamiliar water? Use the internet, local shops, social media and the library to learn a new fishing spot before you arrive.",
+      "image": "http://ffipodcast.com/cdn/shop/articles/maxresdefault_5d29a02c-d797-4a14-b14d-1f42b6391923.jpg?v=1792511412",
+      "pubDate": "Tue, 20 Oct 2026 19:39:35 +0000",
+      "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/research-new-fishing-spot-fly-fishing-insider-podcast#202610201939"
     }
   ],
   "seen_new": [
@@ -965,6 +966,7 @@
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/custom-fly-tying-bench-tie-craft-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/pyramid-lake-cutthroat-shoreline-arlo-townsend-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/florida-keys-fall-grand-slam-bruce-chard-fly-fishing-insider-podcast",
-    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/montana-fishing-film-festival-story-over-production-fly-fishing-insider-podcast"
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/montana-fishing-film-festival-story-over-production-fly-fishing-insider-podcast",
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/research-new-fishing-spot-fly-fishing-insider-podcast"
   ]
 }
