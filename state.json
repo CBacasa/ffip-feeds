@@ -74,7 +74,8 @@
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/yellowstone-guide-dry-fly-leader-tips-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/custom-fly-tying-bench-tie-craft-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/pyramid-lake-cutthroat-shoreline-arlo-townsend-fly-fishing-insider-podcast",
-    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/florida-keys-fall-grand-slam-bruce-chard-fly-fishing-insider-podcast"
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/florida-keys-fall-grand-slam-bruce-chard-fly-fishing-insider-podcast",
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/montana-fishing-film-festival-story-over-production-fly-fishing-insider-podcast"
   ],
   "queue": [
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/i-started-using-split-shot-how-it-changed-my-fly-fishing-fly-fishing-insider-podcast",
@@ -623,14 +624,6 @@
   ],
   "items": [
     {
-      "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/lid-rig-nippers-review",
-      "title": "Lid Rig Nippers Review: Magnetic Hat-Brim Nipper",
-      "summary": "Hands-on Lid Rig nippers review: how the magnetic, hinge-free nipper rides on your hat brim, the engineering behind it, and what changed in the 3.0.",
-      "image": "http://ffipodcast.com/cdn/shop/articles/lid-rig-nipper-old-ffip-review.jpg?v=1791580678",
-      "pubDate": "Sat, 10 Oct 2026 13:59:28 +0000",
-      "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/lid-rig-nippers-review#202610101359"
-    },
-    {
       "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/river-rat-pro-series-raft-review",
       "title": "River Rat Pro Series Raft Review: 12 ft Fishing Raft",
       "summary": "River Rat Pro Series raft review: a 12 ft x 58 in Utah-built fishing raft with a 6 in drop-stitch floor, 1.5 in T6 aluminum frame and Class III rating.",
@@ -861,6 +854,14 @@
       "image": "http://ffipodcast.com/cdn/shop/articles/maxresdefault_30e8f418-1569-4e88-ab71-6c0b7dbf5d16.jpg?v=1792404755",
       "pubDate": "Tue, 20 Oct 2026 02:07:32 +0000",
       "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/florida-keys-fall-grand-slam-bruce-chard-fly-fishing-insider-podcast#202610200207"
+    },
+    {
+      "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/montana-fishing-film-festival-story-over-production-fly-fishing-insider-podcast",
+      "title": "Montana Fishing Film Festival: Story Over Production | Fly Fishing Insider Podcast, Blog and Shop",
+      "summary": "How a borrowed camera and a Missoula screening grew into the Montana Fishing Film Festival, and what makes a fishing film worth watching.",
+      "image": "http://ffipodcast.com/cdn/shop/articles/maxresdefault_9171dd99-3a4f-403c-acf3-1f72c25d8492.jpg?v=1792357520",
+      "pubDate": "Tue, 20 Oct 2026 13:02:42 +0000",
+      "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/montana-fishing-film-festival-story-over-production-fly-fishing-insider-podcast#202610201302"
     }
   ],
   "seen_new": [
@@ -963,6 +964,7 @@
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/yellowstone-guide-dry-fly-leader-tips-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/custom-fly-tying-bench-tie-craft-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/pyramid-lake-cutthroat-shoreline-arlo-townsend-fly-fishing-insider-podcast",
-    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/florida-keys-fall-grand-slam-bruce-chard-fly-fishing-insider-podcast"
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/florida-keys-fall-grand-slam-bruce-chard-fly-fishing-insider-podcast",
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/montana-fishing-film-festival-story-over-production-fly-fishing-insider-podcast"
   ]
 }
