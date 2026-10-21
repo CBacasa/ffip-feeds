@@ -77,7 +77,8 @@
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/florida-keys-fall-grand-slam-bruce-chard-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/montana-fishing-film-festival-story-over-production-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/research-new-fishing-spot-fly-fishing-insider-podcast",
-    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/summer-musky-fly-fishing-guide-fly-fishing-insider-podcast"
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/summer-musky-fly-fishing-guide-fly-fishing-insider-podcast",
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/aquatic-insects-river-health-fly-fishing-insider-podcast"
   ],
   "queue": [
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/i-started-using-split-shot-how-it-changed-my-fly-fishing-fly-fishing-insider-podcast",
@@ -626,14 +627,6 @@
   ],
   "items": [
     {
-      "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/camp-chef-sherpa-table-organizer-review",
-      "title": "Camp Chef Sherpa Table Organizer Review: Hands-On",
-      "summary": "Hands-on Camp Chef Sherpa Table & Organizer review: aluminum folding top, sliding legs and four removable bags, plus how it works on a raft or in camp.",
-      "image": "http://ffipodcast.com/cdn/shop/articles/camp-chef-sherpa-table-organizer-ffip-review.jpg?v=1791580588",
-      "pubDate": "Sun, 11 Oct 2026 14:23:57 +0000",
-      "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/camp-chef-sherpa-table-organizer-review#202610111423"
-    },
-    {
       "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/whitewater-fly-fishing-flathead-hilary-hutcheson-fly-fishing-insider-podcast",
       "title": "Whitewater Fly Fishing the Flathead with Hilary Hutcheson | Fly Fishing Insider Podcast, Blog and Shop",
       "summary": "Hilary Hutcheson on whitewater fly fishing the Flathead near Glacier: safety first, four rigs in one boat, and why one fly can fish three ways in a drift.",
@@ -864,6 +857,14 @@
       "image": "http://ffipodcast.com/cdn/shop/articles/maxresdefault_85911d72-57ff-42f0-bedb-4ed4636c5396.jpg?v=1792511400",
       "pubDate": "Wed, 21 Oct 2026 02:03:40 +0000",
       "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/summer-musky-fly-fishing-guide-fly-fishing-insider-podcast#202610210203"
+    },
+    {
+      "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/aquatic-insects-river-health-fly-fishing-insider-podcast",
+      "title": "What Aquatic Bugs Tell Anglers About River Health | Fly Fishing Insider Podcast, Blog and Shop",
+      "summary": "An ecologist explains how mayflies, stoneflies and caddis reveal river health, and how flipping rocks and downsizing flies can save your day on the water.",
+      "image": "http://ffipodcast.com/cdn/shop/articles/maxresdefault_66e78dd8-3502-4fe5-8581-24f161db7a64.jpg?v=1792511386",
+      "pubDate": "Wed, 21 Oct 2026 13:15:34 +0000",
+      "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/aquatic-insects-river-health-fly-fishing-insider-podcast#202610211315"
     }
   ],
   "seen_new": [
@@ -969,6 +970,7 @@
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/florida-keys-fall-grand-slam-bruce-chard-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/montana-fishing-film-festival-story-over-production-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/research-new-fishing-spot-fly-fishing-insider-podcast",
-    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/summer-musky-fly-fishing-guide-fly-fishing-insider-podcast"
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/summer-musky-fly-fishing-guide-fly-fishing-insider-podcast",
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/aquatic-insects-river-health-fly-fishing-insider-podcast"
   ]
 }
