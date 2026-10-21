@@ -76,7 +76,8 @@
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/pyramid-lake-cutthroat-shoreline-arlo-townsend-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/florida-keys-fall-grand-slam-bruce-chard-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/montana-fishing-film-festival-story-over-production-fly-fishing-insider-podcast",
-    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/research-new-fishing-spot-fly-fishing-insider-podcast"
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/research-new-fishing-spot-fly-fishing-insider-podcast",
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/summer-musky-fly-fishing-guide-fly-fishing-insider-podcast"
   ],
   "queue": [
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/i-started-using-split-shot-how-it-changed-my-fly-fishing-fly-fishing-insider-podcast",
@@ -625,14 +626,6 @@
   ],
   "items": [
     {
-      "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/devos-lightranger-camp-light-review",
-      "title": "Devos LightRanger 2000 Review: Camp Light Tested",
-      "summary": "Hands-on Devos LightRanger 2000 review: a telescoping, Bluetooth-controlled LED camp light with red and white modes, tested at truck camps. $249.99.",
-      "image": "http://ffipodcast.com/cdn/shop/articles/jackery-generator-devos-light-pool-inspired-outdoors-roof-top-tent-ffip-review.jpg?v=1791580625",
-      "pubDate": "Sun, 11 Oct 2026 02:13:34 +0000",
-      "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/devos-lightranger-camp-light-review#202610110213"
-    },
-    {
       "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/camp-chef-sherpa-table-organizer-review",
       "title": "Camp Chef Sherpa Table Organizer Review: Hands-On",
       "summary": "Hands-on Camp Chef Sherpa Table & Organizer review: aluminum folding top, sliding legs and four removable bags, plus how it works on a raft or in camp.",
@@ -863,6 +856,14 @@
       "image": "http://ffipodcast.com/cdn/shop/articles/maxresdefault_5d29a02c-d797-4a14-b14d-1f42b6391923.jpg?v=1792511412",
       "pubDate": "Tue, 20 Oct 2026 19:39:35 +0000",
       "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/research-new-fishing-spot-fly-fishing-insider-podcast#202610201939"
+    },
+    {
+      "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/summer-musky-fly-fishing-guide-fly-fishing-insider-podcast",
+      "title": "How to Catch Musky on the Fly in Summer | Fly Fishing Insider Podcast, Blog and Shop",
+      "summary": "Musky guide Dan Donavon shares his summer game plan: lines, fly sizes, topwater tactics, where fish hold, and why the figure eight matters.",
+      "image": "http://ffipodcast.com/cdn/shop/articles/maxresdefault_85911d72-57ff-42f0-bedb-4ed4636c5396.jpg?v=1792511400",
+      "pubDate": "Wed, 21 Oct 2026 02:03:40 +0000",
+      "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/summer-musky-fly-fishing-guide-fly-fishing-insider-podcast#202610210203"
     }
   ],
   "seen_new": [
@@ -967,6 +968,7 @@
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/pyramid-lake-cutthroat-shoreline-arlo-townsend-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/florida-keys-fall-grand-slam-bruce-chard-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/montana-fishing-film-festival-story-over-production-fly-fishing-insider-podcast",
-    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/research-new-fishing-spot-fly-fishing-insider-podcast"
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/research-new-fishing-spot-fly-fishing-insider-podcast",
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/summer-musky-fly-fishing-guide-fly-fishing-insider-podcast"
   ]
 }
