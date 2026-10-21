@@ -78,7 +78,8 @@
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/montana-fishing-film-festival-story-over-production-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/research-new-fishing-spot-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/summer-musky-fly-fishing-guide-fly-fishing-insider-podcast",
-    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/aquatic-insects-river-health-fly-fishing-insider-podcast"
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/aquatic-insects-river-health-fly-fishing-insider-podcast",
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/leader-line-system-bruce-chard-fly-fishing-insider-podcast"
   ],
   "queue": [
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/i-started-using-split-shot-how-it-changed-my-fly-fishing-fly-fishing-insider-podcast",
@@ -627,14 +628,6 @@
   ],
   "items": [
     {
-      "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/whitewater-fly-fishing-flathead-hilary-hutcheson-fly-fishing-insider-podcast",
-      "title": "Whitewater Fly Fishing the Flathead with Hilary Hutcheson | Fly Fishing Insider Podcast, Blog and Shop",
-      "summary": "Hilary Hutcheson on whitewater fly fishing the Flathead near Glacier: safety first, four rigs in one boat, and why one fly can fish three ways in a drift.",
-      "image": "http://ffipodcast.com/cdn/shop/articles/maxresdefault_0906f108-2938-4732-8a90-dacaeeba6535.jpg?v=1791553745",
-      "pubDate": "Sun, 11 Oct 2026 19:45:26 +0000",
-      "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/whitewater-fly-fishing-flathead-hilary-hutcheson-fly-fishing-insider-podcast#202610111945"
-    },
-    {
       "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/euro-nymphing-explained-george-daniel-fly-fishing-insider-podcast",
       "title": "Euro Nymphing Explained: George Daniel | Fly Fishing Insider Podcast, Blog and Shop",
       "summary": "George Daniel breaks down euro nymphing: thin leaders, a sighter off the water, leading the flies, and why soft-tip rods beat indicators for detecting strikes.",
@@ -865,6 +858,14 @@
       "image": "http://ffipodcast.com/cdn/shop/articles/maxresdefault_66e78dd8-3502-4fe5-8581-24f161db7a64.jpg?v=1792511386",
       "pubDate": "Wed, 21 Oct 2026 13:15:34 +0000",
       "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/aquatic-insects-river-health-fly-fishing-insider-podcast#202610211315"
+    },
+    {
+      "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/leader-line-system-bruce-chard-fly-fishing-insider-podcast",
+      "title": "Why Your Leader and Line System Matters: Lessons from Bruce Chard | Fly Fishing Insider Podcast, Blog and Shop",
+      "summary": "Bruce Chard explains why your line, leader and fly layout work as one system, and how a bonefish school can speed up your learning. Lessons from 30 years in the business.",
+      "image": "http://ffipodcast.com/cdn/shop/articles/hqdefault_6a36ccb2-6709-47a5-9da4-617e9e84664f.jpg?v=1792597589",
+      "pubDate": "Wed, 21 Oct 2026 19:41:10 +0000",
+      "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/leader-line-system-bruce-chard-fly-fishing-insider-podcast#202610211941"
     }
   ],
   "seen_new": [
@@ -971,6 +972,7 @@
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/montana-fishing-film-festival-story-over-production-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/research-new-fishing-spot-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/summer-musky-fly-fishing-guide-fly-fishing-insider-podcast",
-    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/aquatic-insects-river-health-fly-fishing-insider-podcast"
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/aquatic-insects-river-health-fly-fishing-insider-podcast",
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/leader-line-system-bruce-chard-fly-fishing-insider-podcast"
   ]
 }
