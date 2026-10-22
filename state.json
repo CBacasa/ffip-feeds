@@ -80,7 +80,8 @@
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/summer-musky-fly-fishing-guide-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/aquatic-insects-river-health-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/leader-line-system-bruce-chard-fly-fishing-insider-podcast",
-    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/heavy-tackle-peacock-bass-gt-jeff-currier-fly-fishing-insider-podcast"
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/heavy-tackle-peacock-bass-gt-jeff-currier-fly-fishing-insider-podcast",
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/read-and-rig-stillwater-lake-fly-fishing-insider-podcast"
   ],
   "queue": [
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/i-started-using-split-shot-how-it-changed-my-fly-fishing-fly-fishing-insider-podcast",
@@ -629,14 +630,6 @@
   ],
   "items": [
     {
-      "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/black-diamond-solution-1-0-hoody-review",
-      "title": "Black Diamond Solution 1.0 Hoody Review",
-      "summary": "Black Diamond Solution 1.0 Hoody reviewed for fly fishing: PrimaLoft Gold Cross Core, stretch side panels, and why synthetic insulation beats down when wet.",
-      "image": "http://ffipodcast.com/cdn/shop/articles/black-diamond-synthetic-jacket-ffip-review.jpg?v=1791580580",
-      "pubDate": "Mon, 12 Oct 2026 17:02:06 +0000",
-      "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/black-diamond-solution-1-0-hoody-review#202610121702"
-    },
-    {
       "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/sage-esn-4wt-10ft-euro-nymphing-rod-review",
       "title": "Sage ESN 4wt 10ft Fly Rod Review: Euro Nymphing",
       "summary": "Hands-on Sage ESN 4100-4 review: a 10 ft 4wt European nymphing rod with KonneticHD graphite, soft-tip tippet protection, and real backbone for bigger trout.",
@@ -867,6 +860,14 @@
       "image": "http://ffipodcast.com/cdn/shop/articles/maxresdefault_d8a39ac1-131b-471f-a767-21e77cc74c25.jpg?v=1792597562",
       "pubDate": "Thu, 22 Oct 2026 01:55:00 +0000",
       "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/heavy-tackle-peacock-bass-gt-jeff-currier-fly-fishing-insider-podcast#202610220155"
+    },
+    {
+      "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/read-and-rig-stillwater-lake-fly-fishing-insider-podcast",
+      "title": "How to Read and Rig a Stillwater: Tips from Mr. Werbs | Fly Fishing Insider Podcast, Blog and Shop",
+      "summary": "Aaron Smith (Mr. Werbs) shows how to read a lake by structure and wind, and how to rig an indicator leech setup for rocky banks. Practical stillwater tips.",
+      "image": "http://ffipodcast.com/cdn/shop/articles/maxresdefault_5a1e1720-290e-4b74-82e9-21babbb2dd43.jpg?v=1792597548",
+      "pubDate": "Thu, 22 Oct 2026 13:13:33 +0000",
+      "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/read-and-rig-stillwater-lake-fly-fishing-insider-podcast#202610221313"
     }
   ],
   "seen_new": [
@@ -975,6 +976,7 @@
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/summer-musky-fly-fishing-guide-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/aquatic-insects-river-health-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/leader-line-system-bruce-chard-fly-fishing-insider-podcast",
-    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/heavy-tackle-peacock-bass-gt-jeff-currier-fly-fishing-insider-podcast"
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/heavy-tackle-peacock-bass-gt-jeff-currier-fly-fishing-insider-podcast",
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/read-and-rig-stillwater-lake-fly-fishing-insider-podcast"
   ]
 }
