@@ -82,7 +82,8 @@
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/leader-line-system-bruce-chard-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/heavy-tackle-peacock-bass-gt-jeff-currier-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/read-and-rig-stillwater-lake-fly-fishing-insider-podcast",
-    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/euro-nymphing-beginner-setup-tips-fly-fishing-insider-podcast"
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/euro-nymphing-beginner-setup-tips-fly-fishing-insider-podcast",
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/passing-of-the-torch-new-chapter-fly-fishing-insider-podcast"
   ],
   "queue": [
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/i-started-using-split-shot-how-it-changed-my-fly-fishing-fly-fishing-insider-podcast",
@@ -631,14 +632,6 @@
   ],
   "items": [
     {
-      "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/simms-dry-creek-z-hip-pack-review",
-      "title": "Simms Dry Creek Z Hip Pack Review",
-      "summary": "Hands-on Simms Dry Creek Z Hip Pack review: TRU Zip waterproof zipper, 420D TPU-coated nylon, net-ready strap, and how it scores for fly fishing.",
-      "image": "http://ffipodcast.com/cdn/shop/articles/simms-hip-pack-rising-lunker-net-ross-reel-scott-4wt-ffip-review_891cb563-d9f8-4a0f-b2e9-bd6e384b24c4.jpg?v=1791580754",
-      "pubDate": "Tue, 13 Oct 2026 03:54:28 +0000",
-      "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/simms-dry-creek-z-hip-pack-review#202610130354"
-    },
-    {
       "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/lid-rig-mag-box-pro-review",
       "title": "Lid Rig Mag Box Pro Review: Magnetic Fly Box",
       "summary": "Hands-on Lid Rig Mag Box Pro review: how its magnetic inserts and swappable fly docks hold flies, verified specs, scorecard, and who should buy it.",
@@ -869,6 +862,14 @@
       "image": "http://ffipodcast.com/cdn/shop/articles/hqdefault_be6040a4-15a9-4cea-9fb9-3b4e36eec478.jpg?v=1792689338",
       "pubDate": "Thu, 22 Oct 2026 19:33:48 +0000",
       "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/euro-nymphing-beginner-setup-tips-fly-fishing-insider-podcast#202610221933"
+    },
+    {
+      "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/passing-of-the-torch-new-chapter-fly-fishing-insider-podcast",
+      "title": "Passing of the Torch: A New Chapter for the Podcast | Fly Fishing Insider Podcast, Blog and Shop",
+      "summary": "Founding host Greg Keenan hands the Fly Fishing Insider Podcast to Christian. What changes, what stays, and what listeners can expect next.",
+      "image": "http://ffipodcast.com/cdn/shop/articles/maxresdefault_30c6bff1-f3b4-4b89-8c60-5f7f5c6e0b4e.jpg?v=1792689324",
+      "pubDate": "Fri, 23 Oct 2026 02:00:06 +0000",
+      "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/passing-of-the-torch-new-chapter-fly-fishing-insider-podcast#202610230200"
     }
   ],
   "seen_new": [
@@ -979,6 +980,7 @@
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/leader-line-system-bruce-chard-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/heavy-tackle-peacock-bass-gt-jeff-currier-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/read-and-rig-stillwater-lake-fly-fishing-insider-podcast",
-    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/euro-nymphing-beginner-setup-tips-fly-fishing-insider-podcast"
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/euro-nymphing-beginner-setup-tips-fly-fishing-insider-podcast",
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/passing-of-the-torch-new-chapter-fly-fishing-insider-podcast"
   ]
 }
