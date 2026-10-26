@@ -1,15 +1,9 @@
 {
-  "posted": [],
+  "posted": [
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/how-to-stay-warm-fly-fishing-winter"
+  ],
   "queue": [],
   "items": [
-    {
-      "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/host-fly-fishing-film-night-mariko-izumi-fly-fishing-insider-podcast",
-      "title": "How to Host a Fly Fishing Film Night: Mariko Izumi | Fly Fishing Insider Podcast, Blog and Shop",
-      "summary": "Mariko Izumi on growing up in a Canadian fishing family, traveling for TV, and how anyone can host a fly fishing film screening in their town.",
-      "image": "http://ffipodcast.com/cdn/shop/articles/maxresdefault_67620fbd-e7b3-467e-9e18-d6c179ea2329.jpg?v=1792059134",
-      "pubDate": "Thu, 15 Oct 2026 19:28:43 +0000",
-      "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/host-fly-fishing-film-night-mariko-izumi-fly-fishing-insider-podcast#202610151928"
-    },
     {
       "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/dry-flies-bamboo-rods-slowing-down-spencer-durrant-fly-fishing-insider-podcast",
       "title": "Dry Flies, Bamboo Rods, and Slowing Down: Spencer Durrant | Fly Fishing Insider Podcast, Blog and Shop",
@@ -241,6 +235,14 @@
       "image": "http://ffipodcast.com/cdn/shop/articles/IMG-5934.jpg?v=1792615826",
       "pubDate": "Sun, 25 Oct 2026 12:47:06 +0000",
       "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/fly-fishing-gifts-under-100#202610251247"
+    },
+    {
+      "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/how-to-stay-warm-fly-fishing-winter",
+      "title": "How to Stay Warm Fly Fishing in Winter: 10 Ways That Work",
+      "summary": "How to stay warm fly fishing in winter: merino layers, roomy waders, one good pair of socks, mittens, hand warmers and a midday plan to keep you fishing.",
+      "image": "http://ffipodcast.com/cdn/shop/articles/706FG-1_Wool_Bottom_thermal_baselayer_long_underwear.jpg?v=1792615257",
+      "pubDate": "Mon, 26 Oct 2026 14:35:26 +0000",
+      "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/how-to-stay-warm-fly-fishing-winter#202610261435"
     }
   ],
   "seen_new": [
@@ -359,6 +361,7 @@
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/fly-fishing-gear-upgrades-wishlist",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/steelhead-alley-swing-dangle-tips-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/gifts-for-fly-tyers",
-    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/fly-fishing-gifts-under-100"
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/fly-fishing-gifts-under-100",
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/how-to-stay-warm-fly-fishing-winter"
   ]
 }
