@@ -38,18 +38,11 @@
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/wading-safety-aluminum-boot-treads-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/euro-nymphing-setup-lance-egan-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/river-observation-routine-fly-fishing-insider-podcast",
-    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/best-permit-fishing-in-the-world"
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/best-permit-fishing-in-the-world",
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/ascension-bay-fly-fishing-guide"
   ],
   "queue": [],
   "items": [
-    {
-      "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/explore-kenai-bead-fishing-kenai-river-trout",
-      "title": "Bead Fishing for Kenai River Rainbow Trout with Explore Kenai",
-      "summary": "The Kenai River is known for one trout technique above all: a bead fished a couple of inches above a bare hook. Guide Dallas Voss of Explore Kenai explains the rig, how she adjusts it and the one fix she teaches most.What is the go-to rig?Explore Kenai provides 10ft 7-weight Orvis rods and reels for every trout trip, w",
-      "image": "http://ffipodcast.com/cdn/shop/articles/explore-kenai-rainbow-trout-dallas-voss.jpg?v=1793227781",
-      "pubDate": "Thu, 29 Oct 2026 14:41:04 +0000",
-      "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/explore-kenai-bead-fishing-kenai-river-trout#202610291441"
-    },
     {
       "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/explore-kenai-day-on-the-kenai-river",
       "title": "A Day on the Kenai River with Explore Kenai",
@@ -281,6 +274,14 @@
       "image": "http://ffipodcast.com/cdn/shop/articles/best-permit-fishing-in-the-world.jpg?v=1794095775",
       "pubDate": "Sun, 08 Nov 2026 02:44:03 +0000",
       "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/best-permit-fishing-in-the-world#202611080244"
+    },
+    {
+      "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/ascension-bay-fly-fishing-guide",
+      "title": "Ascension Bay Fly Fishing - Permit, Bones and Tarpon",
+      "summary": "What fly fishing in Ascension Bay, Mexico is really like: permit-first guided skiff fishing, big bonefish schools and the late May to mid-July tarpon run.",
+      "image": "http://ffipodcast.com/cdn/shop/articles/ascension-bay-fly-fishing-guide.jpg?v=1794095852",
+      "pubDate": "Sun, 08 Nov 2026 14:33:36 +0000",
+      "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/ascension-bay-fly-fishing-guide#202611081433"
     }
   ],
   "seen_new": [
@@ -438,6 +439,7 @@
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/wading-safety-aluminum-boot-treads-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/euro-nymphing-setup-lance-egan-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/river-observation-routine-fly-fishing-insider-podcast",
-    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/best-permit-fishing-in-the-world"
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/best-permit-fishing-in-the-world",
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/ascension-bay-fly-fishing-guide"
   ]
 }
