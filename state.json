@@ -1,15 +1,9 @@
 {
-  "posted": [],
+  "posted": [
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/winter-fly-tying-checklist"
+  ],
   "queue": [],
   "items": [
-    {
-      "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/the-ambush-predator-system-fish-like-youre-hunting-bass-in-structure",
-      "title": "Bass Tactics for Structure-Oriented Lake Trout",
-      "summary": "How to borrow bass fishing tactics for stillwater trout: fishing structure with precise casts and aggressive retrieves that trigger predatory strikes.",
-      "image": "http://ffipodcast.com/cdn/shop/articles/stillwater-ambush-boulders.jpg?v=1793591713",
-      "pubDate": "Tue, 03 Nov 2026 04:03:30 +0000",
-      "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/the-ambush-predator-system-fish-like-youre-hunting-bass-in-structure#202611030403"
-    },
     {
       "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/sight-fishing-cruisers-the-stillwater-stalking-game",
       "title": "Sight Fishing Cruising Trout in Stillwater",
@@ -241,6 +235,14 @@
       "image": "http://ffipodcast.com/cdn/shop/articles/maxresdefault_72b09fb2-fd30-4630-9630-12d66be143d7.jpg?v=1793721064",
       "pubDate": "Thu, 12 Nov 2026 21:55:55 +0000",
       "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/peacock-bass-tigerfish-jeff-currier-fly-fishing-insider-podcast#202611122155"
+    },
+    {
+      "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/winter-fly-tying-checklist",
+      "title": "Fly Tying Materials List - 25 Winter Tools and Materials",
+      "summary": "A fly tying materials list for winter: the vise, tools, hooks, beads, dubbing, hackle and UV resin to stock now, plus the flies to tie for a winter trout box.",
+      "image": "http://ffipodcast.com/cdn/shop/articles/Rotary_Fly_Tying_Vise_Base_InPixio.png?v=1792615637",
+      "pubDate": "Fri, 13 Nov 2026 15:42:36 +0000",
+      "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/winter-fly-tying-checklist#202611131542"
     }
   ],
   "seen_new": [
@@ -412,6 +414,7 @@
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/chamois-cleanup-after-fishing-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/fly-box-rust-waterproof-silicone-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/passing-of-the-torch-episode-123-fly-fishing-insider-podcast",
-    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/peacock-bass-tigerfish-jeff-currier-fly-fishing-insider-podcast"
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/peacock-bass-tigerfish-jeff-currier-fly-fishing-insider-podcast",
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/winter-fly-tying-checklist"
   ]
 }
