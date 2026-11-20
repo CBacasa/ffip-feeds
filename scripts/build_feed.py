@@ -20,7 +20,7 @@ from xml.sax.saxutils import escape
 
 SITE = "https://ffipodcast.com"
 BLOG = "fly-fishing-insider-podcast-blog"
-SITEMAP = f"{SITE}/sitemap_blogs_1.xml"
+SITEMAP_INDEX = f"{SITE}/sitemap.xml"
 ATOM = f"{SITE}/blogs/{BLOG}.atom"
 ROOT = Path(__file__).resolve().parent.parent
 STATE = ROOT / "state.json"
@@ -36,8 +36,20 @@ def get(url: str) -> str:
 
 
 def article_urls() -> list[str]:
-    xml = get(SITEMAP)
-    urls = re.findall(r"<loc>([^<]+)</loc>", xml)
+    """Every article URL from the blog/article sitemaps listed in the index.
+
+    Shopify lists articles in sitemap_articles_N.xml (older stores used
+    sitemap_blogs_N.xml), so read whichever the index points to.
+    """
+    index = get(SITEMAP_INDEX)
+    maps = [
+        html.unescape(u.strip())
+        for u in re.findall(r"<loc>([^<]+)</loc>", index)
+        if re.search(r"/sitemap_(articles|blogs)_\d+\.xml", u)
+    ]
+    urls = []
+    for m in maps:
+        urls += re.findall(r"<loc>([^<]+)</loc>", get(m))
     prefix = f"{SITE}/blogs/{BLOG}/"
     return sorted({u.strip() for u in urls if u.startswith(prefix)})
 
@@ -89,6 +101,8 @@ def refill_queue(state: dict, all_urls: list[str]) -> None:
 
 def pick_next(state: dict) -> str | None:
     all_urls = article_urls()
+    if not all_urls:                       # sitemap moved or failed: don't wipe history
+        raise SystemExit("No articles found in the sitemap; check SITEMAP_INDEX.")
     posted = set(state["posted"])
     # 1) any brand-new article not yet posted
     latest = newest_urls()
