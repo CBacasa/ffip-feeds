@@ -1,15 +1,9 @@
 {
-  "posted": [],
+  "posted": [
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/winter-saltwater-fly-fishing-trips"
+  ],
   "queue": [],
   "items": [
-    {
-      "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/practice-casting-before-trip-heather-hodson-fly-fishing-insider-podcast",
-      "title": "Practice Before You Fish: Casting Lessons from Heather Hodson | Fly Fishing Insider Podcast, Blog and Shop",
-      "summary": "Heather Hodson on learning to cast the right way, why the roll cast comes first, and why practice before a trip beats hoping on the water.",
-      "image": "http://ffipodcast.com/cdn/shop/articles/maxresdefault_e682003f-47ee-4224-b2b6-4060937bd61c.jpg?v=1793721069",
-      "pubDate": "Wed, 04 Nov 2026 03:20:15 +0000",
-      "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/practice-casting-before-trip-heather-hodson-fly-fishing-insider-podcast#202611040320"
-    },
     {
       "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/what-to-buy-a-fly-fisherman",
       "title": "What to Buy a Fly Fisherman - 14 Gifts for Non-Anglers",
@@ -241,6 +235,14 @@
       "image": "http://ffipodcast.com/cdn/shop/articles/BonefishFront2000x2600.jpg?v=1793628403",
       "pubDate": "Wed, 18 Nov 2026 16:43:48 +0000",
       "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/saltwater-fly-fishing-gifts#202611181643"
+    },
+    {
+      "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/winter-saltwater-fly-fishing-trips",
+      "title": "Winter Saltwater Fly Fishing Trips: 8 Best for Dec-March",
+      "summary": "Winter saltwater fly fishing trips that really fish December to March: 8 destinations, what bites, how fronts and wind change the week, and when to go.",
+      "image": "http://ffipodcast.com/cdn/shop/articles/ffip-flats-hero-1200x800_86142b8b-ebee-4ecf-8b46-c498b487c47f.jpg?v=1793628458",
+      "pubDate": "Fri, 20 Nov 2026 16:24:50 +0000",
+      "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/winter-saltwater-fly-fishing-trips#202611201624"
     }
   ],
   "seen_new": [
@@ -415,6 +417,7 @@
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/peacock-bass-tigerfish-jeff-currier-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/winter-fly-tying-checklist",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/best-fly-fishing-sling-packs",
-    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/saltwater-fly-fishing-gifts"
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/saltwater-fly-fishing-gifts",
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/winter-saltwater-fly-fishing-trips"
   ]
 }
