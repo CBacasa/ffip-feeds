@@ -6,10 +6,10 @@
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/to-zip-or-not-to-zip-on-the-river-wader-review-of-the-patagonia-swiftcurrent-zipper-front-wader-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/chasing-every-salmonid-species-native-trout-char-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/inspired-overland-rooftop-tent-review",
-    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/grayling-char-and-alpine-natives-a-high-country-species-guide"
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/grayling-char-and-alpine-natives-a-high-country-species-guide",
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/saltwater-flats-fly-fishing-tips"
   ],
   "queue": [
-    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/saltwater-flats-fly-fishing-tips",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/become-a-fly-fishing-guide-on-a-budget",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/mothers-day-gift-ideas-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/fly-fishing-big-hole-river-montana-fly-fishing-insider-podcast-blog-and-shop",
@@ -850,14 +850,6 @@
   ],
   "items": [
     {
-      "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/sea-run-cutthroat-fly-setup-fly-fishing-insider-podcast",
-      "title": "Sea-Run Cutthroat on the Fly: Timing, Flies and Setup | Fly Fishing Insider Podcast, Blog and Shop",
-      "summary": "Sea-run cutthroat are a forgotten Pacific Northwest fishery. Learn when they run, which flies to tie, and the rod, line and leader setup that lands them.",
-      "image": "http://ffipodcast.com/cdn/shop/articles/hqdefault_e57c4871-5e89-44ff-a2b5-fe3017e17205.jpg?v=1793963531",
-      "pubDate": "Fri, 06 Nov 2026 21:07:12 +0000",
-      "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/sea-run-cutthroat-fly-setup-fly-fishing-insider-podcast#202611062107"
-    },
-    {
       "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/wading-safety-aluminum-boot-treads-fly-fishing-insider-podcast",
       "title": "Wading Safety: Aluminum Boot Treads for Slick Rivers | Fly Fishing Insider Podcast, Blog and Shop",
       "summary": "Slick rocks and slate bottoms cause falls. Learn how aluminum boot treads work, what installation mistakes to avoid, and tips for safer wading.",
@@ -1088,6 +1080,14 @@
       "image": "http://ffipodcast.com/cdn/shop/articles/Underwater_Arctic_Grayling.jpg?v=1794525717",
       "pubDate": "Sun, 22 Nov 2026 15:42:46 +0000",
       "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/grayling-char-and-alpine-natives-a-high-country-species-guide#202611221542"
+    },
+    {
+      "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/saltwater-flats-fly-fishing-tips",
+      "title": "Saltwater Flats Fly Fishing Tips: Bonefish to Permit",
+      "summary": "22 saltwater flats fly fishing tips from Fly Fishing Insider Podcast guests, covering gear, leaders and tactics for bonefish, tarpon, permit and redfish.",
+      "image": "http://ffipodcast.com/cdn/shop/articles/ffip-saltwater-fish-275.jpg?v=1790900512",
+      "pubDate": "Sun, 22 Nov 2026 21:19:46 +0000",
+      "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/saltwater-flats-fly-fishing-tips#202611222119"
     }
   ],
   "seen_new": [
