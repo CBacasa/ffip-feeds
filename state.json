@@ -14,7 +14,8 @@
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/first-season-after-guide-school-new-guide-lessons",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/guide-school-vs-working-your-way-into-guiding",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/becoming-a-fly-fishing-guide-later-in-life-guide-school",
-    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/what-a-week-at-fly-fishing-guide-school-covers"
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/what-a-week-at-fly-fishing-guide-school-covers",
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/saltwater-fly-fishing-lessons-from-guides"
   ],
   "queue": [
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/become-a-fly-fishing-guide-on-a-budget",
@@ -857,14 +858,6 @@
   ],
   "items": [
     {
-      "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/black-hills-south-dakota-hopper-fishing-fly-fishing-insider-podcast",
-      "title": "Fly Fishing the Black Hills of South Dakota: Wild Trout and Big Hoppers | Fly Fishing Insider Podcast, Blog and Shop",
-      "summary": "Spearfish Creek and the Black Hills offer unstocked wild trout and giant grasshopper fishing. Here is how to approach the region, from our guest Pete of Finn Provisions.",
-      "image": "http://ffipodcast.com/cdn/shop/articles/hqdefault_0440d2cf-15cf-4c68-a615-02915696c35d.jpg?v=1794237637",
-      "pubDate": "Mon, 09 Nov 2026 17:50:05 +0000",
-      "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/black-hills-south-dakota-hopper-fishing-fly-fishing-insider-podcast#202611091750"
-    },
-    {
       "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/better-strip-sets-streamer-fishing-fly-fishing-insider-podcast",
       "title": "Better Strip Sets: 5 Fixes for Missed Streamer Strikes | Fly Fishing Insider Podcast, Blog and Shop",
       "summary": "Missing streamer strikes? Five practical fixes for a better strip set: rod tip low, constant contact, extended arms, the tarpon retrieve, and sharp hooks.",
@@ -1095,6 +1088,14 @@
       "image": "http://ffipodcast.com/cdn/shop/articles/hqdefault_a61622c7-9654-4e23-a80d-7daba91711a5.jpg?v=1795396605",
       "pubDate": "Wed, 25 Nov 2026 05:41:37 +0000",
       "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/what-a-week-at-fly-fishing-guide-school-covers#202611250541"
+    },
+    {
+      "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/saltwater-fly-fishing-lessons-from-guides",
+      "title": "Saltwater Fly Fishing Tips - 12 Lessons from Flats Guides",
+      "summary": "Saltwater fly fishing tips from Fly Fishing Insider Podcast guests: fighting angles, leaders, permit flies, DIY scouting and better questions for your guide.",
+      "image": "http://ffipodcast.com/cdn/shop/articles/ffip-saltwater-fish-275_3d36f103-c231-4b3a-a607-a5c2bd9134fe.jpg?v=1794232057",
+      "pubDate": "Wed, 25 Nov 2026 18:12:29 +0000",
+      "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/saltwater-fly-fishing-lessons-from-guides#202611251812"
     }
   ],
   "seen_new": [
@@ -1277,6 +1278,7 @@
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/first-season-after-guide-school-new-guide-lessons",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/guide-school-vs-working-your-way-into-guiding",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/becoming-a-fly-fishing-guide-later-in-life-guide-school",
-    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/what-a-week-at-fly-fishing-guide-school-covers"
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/what-a-week-at-fly-fishing-guide-school-covers",
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/saltwater-fly-fishing-lessons-from-guides"
   ]
 }
