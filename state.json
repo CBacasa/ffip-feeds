@@ -21,10 +21,10 @@
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/fly-fishing-big-hole-river-montana-fly-fishing-insider-podcast-blog-and-shop",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/heather-hodson-united-women-on-the-fly-community-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/stealth-mistakes-that-spook-trout-fly-fishing-insider-podcast-blog-and-shop",
-    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/best-wading-jackets"
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/best-wading-jackets",
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/how-do-water-temperatures-affect-fly-fishing-fly-fishing-insider-podcast"
   ],
   "queue": [
-    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/how-do-water-temperatures-affect-fly-fishing-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/chasing-native-trout-overlooked-water-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/phil-rowley-stillwater-tactics-depth-pace-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/why-fish-are-wary-fly-fishing-insider-podcast",
@@ -859,14 +859,6 @@
   ],
   "items": [
     {
-      "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/chamois-cleanup-after-fishing-fly-fishing-insider-podcast",
-      "title": "The Chamois Trick for Anglers After a Long Day | Fly Fishing Insider Podcast, Blog and Shop",
-      "summary": "A simple chamois towel and a quick river rinse can make the drive home after a long day on the boat far more comfortable. Here is how I do it.",
-      "image": "http://ffipodcast.com/cdn/shop/articles/maxresdefault_3e95071e-fb48-4e9f-8bec-69b9c84e257f.jpg?v=1794049809",
-      "pubDate": "Wed, 11 Nov 2026 22:19:23 +0000",
-      "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/chamois-cleanup-after-fishing-fly-fishing-insider-podcast#202611112219"
-    },
-    {
       "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/fly-box-rust-waterproof-silicone-fly-fishing-insider-podcast",
       "title": "Why Fly Boxes Rust Your Flies and How to Fix It | Fly Fishing Insider Podcast, Blog and Shop",
       "summary": "Why waterproof fly boxes rust hooks, how silicone slots hold flies, and what the Tacky founders learned designing a box that lets flies dry out.",
@@ -1097,6 +1089,14 @@
       "image": "http://ffipodcast.com/cdn/shop/articles/Deep-Eddy-Hood-Up-Closed.jpg?v=1794232017",
       "pubDate": "Fri, 27 Nov 2026 17:40:15 +0000",
       "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/best-wading-jackets#202611271740"
+    },
+    {
+      "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/how-do-water-temperatures-affect-fly-fishing-fly-fishing-insider-podcast",
+      "title": "How Do Water Temperatures Affect Fly Fishing",
+      "summary": "Knowing how metabolic feeding temperatures affect fishing is invaluable. Doing this can change your approach altogether.",
+      "image": "http://ffipodcast.com/cdn/shop/articles/Screenshot_2023-12-08_at_3.20.20_PM.png?v=1702081663",
+      "pubDate": "Fri, 27 Nov 2026 23:45:47 +0000",
+      "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/how-do-water-temperatures-affect-fly-fishing-fly-fishing-insider-podcast#202611272345"
     }
   ],
   "seen_new": [
