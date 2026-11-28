@@ -22,7 +22,8 @@
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/heather-hodson-united-women-on-the-fly-community-fly-fishing-insider-podcast",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/stealth-mistakes-that-spook-trout-fly-fishing-insider-podcast-blog-and-shop",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/best-wading-jackets",
-    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/how-do-water-temperatures-affect-fly-fishing-fly-fishing-insider-podcast"
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/how-do-water-temperatures-affect-fly-fishing-fly-fishing-insider-podcast",
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/belize-vs-bahamas-vs-christmas-island-bonefish"
   ],
   "queue": [
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/chasing-native-trout-overlooked-water-fly-fishing-insider-podcast",
@@ -859,14 +860,6 @@
   ],
   "items": [
     {
-      "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/fly-box-rust-waterproof-silicone-fly-fishing-insider-podcast",
-      "title": "Why Fly Boxes Rust Your Flies and How to Fix It | Fly Fishing Insider Podcast, Blog and Shop",
-      "summary": "Why waterproof fly boxes rust hooks, how silicone slots hold flies, and what the Tacky founders learned designing a box that lets flies dry out.",
-      "image": "http://ffipodcast.com/cdn/shop/articles/maxresdefault_7065ef4d-f157-4c25-93c4-28574cb858b3.jpg?v=1793963514",
-      "pubDate": "Thu, 12 Nov 2026 04:20:50 +0000",
-      "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/fly-box-rust-waterproof-silicone-fly-fishing-insider-podcast#202611120420"
-    },
-    {
       "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/passing-of-the-torch-episode-123-fly-fishing-insider-podcast",
       "title": "Passing of the Torch: Episode 123 | Fly Fishing Insider Podcast, Blog and Shop",
       "summary": "Episode 123 explained: founder Greg Keenan hands the Fly Fishing Insider Podcast to Christian Bacasa, with lessons on community, shops and chironomid setups.",
@@ -1097,6 +1090,14 @@
       "image": "http://ffipodcast.com/cdn/shop/articles/Screenshot_2023-12-08_at_3.20.20_PM.png?v=1702081663",
       "pubDate": "Fri, 27 Nov 2026 23:45:47 +0000",
       "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/how-do-water-temperatures-affect-fly-fishing-fly-fishing-insider-podcast#202611272345"
+    },
+    {
+      "url": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/belize-vs-bahamas-vs-christmas-island-bonefish",
+      "title": "Belize vs Bahamas vs Christmas Island: Bonefish Trips",
+      "summary": "Belize vs Bahamas vs Christmas Island for bonefish: starting prices, travel, minimum stays, other species, best months and who each trip suits best.",
+      "image": "http://ffipodcast.com/cdn/shop/articles/ffip-guide-02-andros.jpg?v=1795832898",
+      "pubDate": "Sat, 28 Nov 2026 04:59:26 +0000",
+      "guid": "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/belize-vs-bahamas-vs-christmas-island-bonefish#202611280459"
     }
   ],
   "seen_new": [
@@ -1281,6 +1282,7 @@
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/becoming-a-fly-fishing-guide-later-in-life-guide-school",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/what-a-week-at-fly-fishing-guide-school-covers",
     "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/saltwater-fly-fishing-lessons-from-guides",
-    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/best-wading-jackets"
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/best-wading-jackets",
+    "https://ffipodcast.com/blogs/fly-fishing-insider-podcast-blog/belize-vs-bahamas-vs-christmas-island-bonefish"
   ]
 }
